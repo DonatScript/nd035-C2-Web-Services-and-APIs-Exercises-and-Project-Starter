@@ -32,7 +32,7 @@ public class PriceClient {
      */
     public String getPrice(Long vehicleId) {
         try {
-            Price price = client
+                Price price = client
                     .get()
                     .uri(uriBuilder -> uriBuilder
                             .path("services/price/")

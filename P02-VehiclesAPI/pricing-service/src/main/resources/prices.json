@@ -1,0 +1,22 @@
+[
+  {
+    "currency": "USD",
+    "price": "42000"
+  },
+  {
+    "currency": "USD",
+    "price": "45000"
+  },
+  {
+    "currency": "USD",
+    "price": "49999"
+  },
+  {
+    "currency": "USD",
+    "price": "35000"
+  },
+  {
+    "currency": "USD",
+    "price": "40000"
+  }
+]
